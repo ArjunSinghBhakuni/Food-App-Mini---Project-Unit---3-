@@ -24,7 +24,9 @@
 ### _Following are the Screenshots for the reference_
 
 - **Landing Page**
-  ![Landing Page](https://i.postimg.cc/c1kthG1B/Screenshot-541.png)
+  ![Landing Page](https://i.postimg.cc/hjHpcrSB/Screenshot-536.png)
+  ![Landing Page](https://i.postimg.cc/hjHpcrSB/Screenshot-536.png)
+  
 
 - **Log-in Page**
 
