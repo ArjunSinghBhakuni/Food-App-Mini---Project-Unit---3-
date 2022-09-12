@@ -25,7 +25,7 @@
 
 - **Landing Page**
   ![Landing Page](https://i.postimg.cc/hjHpcrSB/Screenshot-536.png)
-  ![Landing Page](https://i.postimg.cc/hjHpcrSB/Screenshot-536.png)
+  ![Landing Page](https://i.postimg.cc/LsGz18Gk/Screenshot-537.png)
   
 
 - **Log-in Page**
