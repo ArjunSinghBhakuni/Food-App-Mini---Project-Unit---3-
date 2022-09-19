@@ -1,7 +1,7 @@
 # Mini-Food-App
 
  
-### Deploy Link -https://arjunsinghbhakuni.github.io/Food-App-Mini---Project-Unit---3-/index.html
+## Deploy Link -https://arjunsinghbhakuni.github.io/Food-App-Mini---Project-Unit---3-/index.html
  
 
  
